@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("New Branch added");
         System.out.println("Make changes in your code");
+        System.out.println("Merge");
 
     }
 }
